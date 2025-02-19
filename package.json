@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
     "postinstall": "npm install date-fns@3.3.1 --save-exact && npm install react-day-picker@latest --save"
   },
   "dependencies": {
